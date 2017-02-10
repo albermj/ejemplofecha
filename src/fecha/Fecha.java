@@ -11,9 +11,10 @@ public class Fecha {
 
     public Fecha(int dia, int mes, int año) {
         this.dia = dia;
-        this.mes = mes;
+        this.mes = 45;
         this.año = año;
     }
+    
     
     
 }
